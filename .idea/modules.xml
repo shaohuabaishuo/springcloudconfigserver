@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configclient_1/configclient_1.iml" filepath="$PROJECT_DIR$/configclient_1/configclient_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service_hi/service_hi.iml" filepath="$PROJECT_DIR$/service_hi/service_hi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicemiya/servicemiya.iml" filepath="$PROJECT_DIR$/servicemiya/servicemiya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudconfigserver.iml" filepath="$PROJECT_DIR$/springcloudconfigserver.iml" />
+    </modules>
+  </component>
+</project>
